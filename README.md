@@ -1,5 +1,9 @@
 examples using some finance APIs: crypto and stocks
 
+investpy
+https://readthedocs.org/projects/investpy/downloads/pdf/latest/
+
+
 This project was started to learn about investpy and yfinance, but others APIs was discovered too.
 
 (https://www.libhunt.com/compare-investpy-vs-yfinance)
