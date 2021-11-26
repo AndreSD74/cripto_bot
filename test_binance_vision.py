@@ -1,5 +1,7 @@
 # https://testnet.binance.vision/
 # https://algotrading101.com/learn/binance-python-api-guide/
+# https://python-binance.readthedocs.io/en/latest/overview.html
+
 
 import os
 binance_api = os.environ.get('binance_api')
