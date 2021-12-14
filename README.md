@@ -28,3 +28,7 @@ Stocksera - Stocks Analysis Application to track trending tickers and crypto on 
 stock_screener - Picking stocks through various screening methods. Focus on Northern Europe.
 
 discord-api-docs - Official Discord API Documentation
+
+TA-Lib  (https://www.youtube.com/watch?v=30BaSfz0FGE)
+https://www.programcreek.com/python/index/7769/talib
+
