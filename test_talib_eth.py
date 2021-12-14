@@ -25,8 +25,8 @@ pd_eth.columns = [col.lower().replace(" ","_") for col in pd_eth.columns]
 #    high=pd_eth['high'],
 #    low=pd_eth['low'],
 #    close=pd_eth['close'],
-#))
-#fig.show()
+# ))
+# fig.show()
 
 
 ## SMA
