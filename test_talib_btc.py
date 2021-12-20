@@ -50,6 +50,8 @@ plt.fill_between(
     color="red"
 )
 
+plt.show()
+
 bbands = pd.concat([upper,lower,pd_eth.close],axis=1,join="inner")
 bbands.columns=['up','lo','clo']
 
